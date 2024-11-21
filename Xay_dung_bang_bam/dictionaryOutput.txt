@@ -1,0 +1,10 @@
+university - dai hoc
+cats - con meo
+dogs - con cho
+hello - xin chao
+house - ngoi nha
+study - hoc
+bachelor - cu nhan
+engineer - ki su
+swimming - boi
+work hard - lam viec cham chi
